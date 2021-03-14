@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HastaneOzel</string>
+    <string name="asem_zel_hastaneler">ASEM ÖZEL HASTANELERİ</string>
+    <string name="hesab_n_z_bulunmaktad_rr">Hesabınız Bulunmaktadırr.</string>
+    <string name="kayit_ol">KAYIT OL</string>
+    <string name="todo">TODO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hasta_ge_mi_i">Hasta Geçmişi</string>
+</resources>
